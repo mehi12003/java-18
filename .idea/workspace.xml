@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="532508b7-c6d3-4e47-a6f4-7b8bb79d43a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Java8Tema/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Tema/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Tema/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Tema/TemaJava8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Tema/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Tema/src/main/java/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Tema/src/main/java/PersonMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Tema/target/classes/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Tema/target/classes/PersonMain$StringComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Tema/target/classes/PersonMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/TemaJava8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/TemaJava8.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/src/main/java/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/src/main/java/PersonMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/target/classes/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/target/classes/PersonMain$StringComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemaJava8/target/classes/PersonMain.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rLpQY4RnbBaw51vEgHJLTezh2w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Profi" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="532508b7-c6d3-4e47-a6f4-7b8bb79d43a1" name="Default Changelist" comment="" />
+      <created>1618765208334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618765208334</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1618765537165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618765537165" />
+  </component>
+</project>
